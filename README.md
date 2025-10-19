@@ -1,5 +1,5 @@
 ![Portfolio Banner](assets/banner.png)
-
+<<<<<<< HEAD
 ﻿# 👨‍💻 Alex Brixbacken — Technical Portfolio
 
 ## 📘 About Me
